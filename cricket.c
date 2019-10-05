@@ -1,3 +1,9 @@
+// A Simple Cricket Game Program in C, this game is a single-player game consisting of one batsman,7 fielders with 1 Wicket Keeper.
+
+//Only the batting can be done with many different types of shots can be played (on covers, mid-off, mid-on, square leg, third men and many other)
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<windows.h>
